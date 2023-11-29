@@ -1,0 +1,24 @@
+{
+  "Team 1": [
+      {
+          "name": "Git",
+          "urlHasName": true,
+          "download_path": "https://github.com/git-for-windows/git/releases/download/v2.40.0.windows.1/Git-2.40.0-32-bit.exe",
+          "tag": "'id': 'auto-download-link'",
+          "install_args": "/VERYSILENT"
+      },
+      {
+          "name": "Python",
+          "urlHasName": true,
+          "download_path": "https://www.python.org/ftp/python/3.11.2/python-3.11.2-amd64.exe",
+          "tag": "'class': 'buttons'",
+          "install_args": "/quiet InstallAllUsers=1 PrependPath=1"
+      }],
+    "Team 2": [
+      {
+          "name": "7Zip",
+          "urlHasName": true,
+          "download_path": "https://www.7-zip.org/a/7z2201-x64.exe",
+          "install_args": "/S"
+      }]
+}

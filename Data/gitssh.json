@@ -1,0 +1,13 @@
+{
+    "gitData": [
+        "PubkeyAcceptedKeyTypes +ssh-rsa",
+        "Host gerritgit",
+        "HostName bnggit.amd.com",
+        "User ",
+        "Port 29418",
+        "Host gerritgitmaster",
+        "HostName git.amd.com",
+        "User ",
+        "Port 29418"
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "DataBase": "DataBase\\Download.json",
+    "Local": "C:\\Temp\\oneClick\\",
+    "Chrome": "\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Bookmarks",
+    "bookmarks": "DataBase\\Bookmarks",
+    "Log Path": "C:\\Temp\\",
+    "Git ssh": "Data\\gitssh.json"
+}

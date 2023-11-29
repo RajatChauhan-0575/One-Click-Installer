@@ -1,0 +1,116 @@
+{
+    "uprof": [
+        {
+            "name": "Git",
+            "urlHasName": true,
+            "download_path": "https://github.com/git-for-windows/git/releases/download/v2.40.0.windows.1/Git-2.40.0-32-bit.exe",
+            "tag": "'id': 'auto-download-link'",
+            "install_args": "/VERYSILENT"
+        },
+        {
+            "name": "Python",
+            "urlHasName": true,
+            "download_path": "https://www.python.org/ftp/python/3.11.2/python-3.11.2-amd64.exe",
+            "tag": "'class': 'buttons'",
+            "install_args": "/quiet InstallAllUsers=1 PrependPath=1"
+        },
+        {
+            "name": "7Zip",
+            "urlHasName": true,
+            "download_path": "https://www.7-zip.org/a/7z2201-x64.exe",
+            "install_args": "/S"
+        },
+        {
+            "name": "AmazonCorretto-Java",
+            "urlHasName": true,
+            "download_path": "https://corretto.aws/downloads/latest/amazon-corretto-8-x64-windows-jdk.msi",
+            "install_args": "/quiet"
+        },
+        {
+            "name": "BeyondCompare",
+            "urlHasName": true,
+            "download_path": "https://www.scootersoftware.com/BCompare-4.4.6.27483.exe",
+            "install_args": "/VERYSILENT /NORESTART"
+        },
+        {
+            "name": "Notepad++",
+            "urlHasName": true,
+            "download_path": "https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.5/npp.8.5.Installer.x64.exe",
+            "install_args": "/S /D"
+        },
+        {
+            "name": "Postman",
+            "urlHasName": false,
+            "fileName": "Postman.exe",
+            "download_path": "https://dl.pstmn.io/download/latest/win64",
+            "install_args": "/silent"
+        },
+        {
+            "name": "SQLite",
+            "urlHasName": true,
+            "download_path": "https://download.sqlitebrowser.org/DB.Browser.for.SQLite-3.12.2-win32.msi",
+            "install_args": "/quiet"
+        },
+        {
+            "name": "VSCode",
+            "urlHasName": false,
+            "fileName": "VScode.exe",
+            "download_path": "https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user",
+            "install_args": "/VERYSILENT"
+        },
+        {
+            "name": "MobaXterm",
+            "urlHasName": false,
+            "fileName": "MobaXterm.msi",
+            "download_path": "https://mobaxterm.mobatek.net/download-home-edition.html",
+            "install_args": "/qn"
+        },
+        {
+            "name": "SourceTree",
+            "urlHasName": true,
+            "download_path": "https://product-downloads.atlassian.com/software/sourcetree/windows/ga/SourceTreeSetup-3.4.12.exe",
+            "install_args": "-s"
+        },
+        {
+            "name": "Visual Studio",
+            "urlHasName": true,
+            "download_path": "https://aka.ms/vs/16/release/vs_community.exe",
+            "install_args": "-q --wait"
+        },
+        {
+            "name": "uprof",
+            "urlHasName": false,
+            "download_path": "NA",
+            "install_args": "/S /v/qn"
+        }
+    ],
+    "AOCC": [
+        {
+            "name": "SourceTree",
+            "urlHasName": true,
+            "download_path": "https://product-downloads.atlassian.com/software/sourcetree/windows/ga/SourceTreeSetup-3.4.12.exe",
+            "install_args": "-s"
+        },
+        {
+            "name": "Visual Studio",
+            "urlHasName": true,
+            "download_path": "https://aka.ms/vs/16/release/vs_community.exe",
+            "install_args": "-q --wait"
+        }
+    ],
+    "HR": [
+        {
+            "name": "MobaXterm",
+            "urlHasName": false,
+            "fileName": "MobaXterm.msi",
+            "download_path": "https://mobaxterm.mobatek.net/download-home-edition.html",
+            "install_args": "/qn"
+        },
+        {
+            "name": "SQLite",
+            "urlHasName": true,
+            "download_path": "https://download.sqlitebrowser.org/DB.Browser.for.SQLite-3.12.2-win32.msi",
+            "install_args": "/quiet"
+        }
+    ]
+}
